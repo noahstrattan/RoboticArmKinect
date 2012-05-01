@@ -1,0 +1,9 @@
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\bin\Release\KinectRoboticArmFinal.exe
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\bin\Release\KinectRoboticArmFinal.pdb
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\KinectRoboticArmFinal.Form1.resources
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\KinectRoboticArmFinal.Properties.Resources.resources
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\KinectRoboticArmFinal.exe
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Release\KinectRoboticArmFinal.pdb

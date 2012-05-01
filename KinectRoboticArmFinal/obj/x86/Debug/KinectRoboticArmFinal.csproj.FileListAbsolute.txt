@@ -1,0 +1,18 @@
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\bin\Debug\KinectRoboticArmFinal.exe
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\bin\Debug\KinectRoboticArmFinal.pdb
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.Properties.Resources.resources
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.exe
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.pdb
+C:\Users\Noah\AppData\Local\Temporary Projects\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.Form1.resources
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.exe
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\bin\Debug\KinectRoboticArmFinal.exe
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\bin\Debug\KinectRoboticArmFinal.pdb
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.Form1.resources
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.Properties.Resources.resources
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Noah\documents\visual studio 2010\Projects\KinectRoboticArmFinal\KinectRoboticArmFinal\obj\x86\Debug\KinectRoboticArmFinal.pdb
